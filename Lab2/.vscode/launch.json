@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": ["wolf.bmp","0.1","0","new.bmp"],
+            "args": ["matrix","4"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
